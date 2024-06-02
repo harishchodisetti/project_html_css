@@ -535,7 +535,8 @@ a:hover{
  }
 
 
-#btn2{
+
+  #btn2{
     position: relative;
    z-index:1;
     color:white;
@@ -549,7 +550,10 @@ a:hover{
 
 
     
- }
+ } 
+
+
+ 
  .child1{
   height:45vh;
     width:20vw;
