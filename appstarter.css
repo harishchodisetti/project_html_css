@@ -234,19 +234,23 @@ a:hover{
     height:40vh;
     justify-content: center;
     align-items: center;
+    
  }
  #para1{
     color: white;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 40px;
 
     
  }
  #btn1{
     width:100px;
-    padding:2px;
+    padding:5px;
     background-color: black;
     color:white;
     border-radius: 20%;
+    margin-bottom: 40px;
  }
 
  #container4{
@@ -476,9 +480,10 @@ a:hover{
         
 
     }
-    .child1{
-        padding-bottom: 5vh;
-    }
+    
+
+   
+     
 
     
     #flex4{
@@ -487,21 +492,32 @@ a:hover{
         align-items: center;
         
 
+        
+
     }
     .child1{
         
-        padding: 50px;
-        margin-top:20px;
-        position: relative;
+        
+        margin-bottom:40px;
+    
+        padding:px;
+        height:55vh;
+        width:60vw;
+        
+        
+        
         
         
     }
+    
+    
+   
 
     #div-img{
-             margin: 20px;
+        margin: 20px;
         position: relative;
     
-        border: 2px solid red;
+        
         
    
    }
@@ -538,13 +554,15 @@ a:hover{
 
   #btn2{
     position: relative;
-   z-index:1;
+      z-index: 1;
     color:white;
     background-color: skyblue;
     border-radius: 20%;
-    padding: 2px;
-    top:10px;
-    left:-2px;
+    padding: 10px;
+     top:65px;
+    left:50px; 
+    
+   
     
 
 
@@ -554,7 +572,7 @@ a:hover{
 
 
  
- .child1{
+ /* .child1{
   height:45vh;
     width:20vw;
     background-color: white;
@@ -563,9 +581,9 @@ a:hover{
 
 
     
-    
+     */
 
-}
+
 
 #btn3{
     width:70px;
@@ -648,9 +666,15 @@ a:hover{
 
    
 }
-
-
 }
+
+
+
+
+ 
+
+
+
 
 
 
