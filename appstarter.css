@@ -355,13 +355,14 @@ a:hover{
     text-align: center;
  }
  #btn2{
-    position: relative;
+    /* position: relative;
     top:7vh;
-    left:7vw;
+    left:7vw; */
     color:white;
     background-color: skyblue;
     border-radius: 20%;
     padding: 1vh;
+    transform: translate(100px,50px);
     
 
 
@@ -553,14 +554,18 @@ a:hover{
 
 
   #btn2{
-    position: relative;
+    /* position: relative;
       z-index: 1;
+      top:65px;
+      left:50px;  */
     color:white;
     background-color: skyblue;
     border-radius: 20%;
     padding: 10px;
-     top:65px;
-    left:50px; 
+
+    transform: translate(50px,60px);
+    
+   
     
    
     
